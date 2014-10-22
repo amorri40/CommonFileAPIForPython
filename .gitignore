@@ -1,2 +1,6 @@
 
 *.pyc
+
+*.egg
+
+CommonFileAPIForPython.egg-info/
